@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: article
+authors:
+- family-names: "Lambiase"
+  given-names: "Stefano"
+  orcid: "https://orcid.org/0000-0002-9933-6203"
+- family-names: "Catolino"
+  given-names: "Gemma"
+- family-names: "Palomba"
+  given-names: "Fabio"
+- family-names: "Ferrucci"
+  given-names: "Filomena"
+title: "Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review"
+doi: "10.0000/00000"
+journal: "Journal Title"
+#month: 9
+#start: 1 # First page number
+#end: 10 # Last page number
+#issue: 1
+#volume: 1
+year: 2022

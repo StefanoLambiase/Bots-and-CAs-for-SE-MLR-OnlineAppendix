@@ -2,8 +2,11 @@
 ## Online Appendix
 
 **Stefano Lambiase** — *slambiase@unisa.it* — SeSa Lab, University of Salerno, Italy
+
 **Gemma Catolino** — *g.catolino@tilburguniversity.edu* — Jheronimus Academy of Data Science, The Netherlands
+
 **Fabio Palomba** — *fpalomba@unisa.it* — SeSa Lab, University of Salerno, Italy
+
 **Filomena Ferrucci** — *fferrucci@unisa.it* — SeSa Lab, University of Salerno, Italy
 
 This is the online appendix for the Multivocal Literature Review titled **Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review**.

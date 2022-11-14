@@ -1,8 +1,12 @@
 # Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review
 ## Online Appendix
 
-This is the online appendix for the Multivocal Literature Review titled **Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review**.
+**Stefano Lambiase** — *slambiase@unisa.it* — SeSa Lab, University of Salerno, Italy
+**Gemma Catolino** — *g.catolino@tilburguniversity.edu* — Jheronimus Academy of Data Science, The Netherlands
+**Fabio Palomba** — *fpalomba@unisa.it* — SeSa Lab, University of Salerno, Italy
+**Filomena Ferrucci** — *fferrucci@unisa.it* — SeSa Lab, University of Salerno, Italy
 
+This is the online appendix for the Multivocal Literature Review titled **Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review**.
 This online appendix contains the following files:
 
 - *1_Extraction_Inclusion_Criteria.xlsx* — This file contains the information about the first step of the literature review (i.e., the extraction of literature from the DBs and the exclusion/inclusion filters). This file is only for the white/formal literature.

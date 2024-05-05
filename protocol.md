@@ -116,15 +116,23 @@ In the studies selection phase, the aim was to apply the planned strategy to col
 
 After completing the extraction and selection process for both the formal and grey literature, we combined the two sets, resulting in a comprehensive collection of 107 articles, which formed the basis for the subsequent data extraction phase. The distribution of literature included blogs, conference papers, workshop papers, and journal papers, with a significant number coming from conferences like the International Workshop on Bots in Software Engineering (BotSE).
 
+**The entire selection process is reported in file *1_Extraction_Inclusion_Criteria.xlsx*.**
+**The entire selection process for grey literature is reported in file *2_Grey_Literature_Eligibility_Criteria.xlsx*.**
+**The entire data extraction process and quality check is reported in file *2_Grey_Literature_Eligibility_Criteria.xlsx*. Specifically, the quality criteria and dat extraction concern the first two sheets of the file.**
+
 ![Selection Process](figures_for_md/results.png)
 
 ## Data Extraction Phase
 
 We defined a series of data extraction forms based on our objectives and research questions. These forms were used to identify relevant elements in the articles to answer our research questions. Data were extracted using predefined forms, and any new information led to the creation of new columns in an Excel file, whereas repeated information was marked accordingly. All extracted data are detailed in our online appendix.
 
+**The entire data extraction process is reported in file *2_Grey_Literature_Eligibility_Criteria.xlsx*. Specifically, it is reported in the second sheet of the file.**
+
 ## Data Synthesis and Analysis Phase
 
 We synthesized the data collected to present it to the target audience in a readable and usable way. We employed narrative synthesis to describe and interpret the primary evidence and thematic analysis to summarize studies under a set of recurrent themes. Descriptions were annotated and categorized based on similarity, and each category was assigned to a new column in the Excel file. The process ensured that thematic similarities were grouped and traceability was maintained.
+
+**The entire data analysis is reported in file *2_Grey_Literature_Eligibility_Criteria.xlsx*. Specifically, the data synthesis is reported in the third sheet, while the synthesis is reported in the last two sheets.**
 
 ---
 ## Results Reporting Phase
